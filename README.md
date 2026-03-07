@@ -23,13 +23,13 @@ This project focuses on:
 
 # 🔍 Tasks
 For this project:<br>
--Write **SQL queries** to answer each question provided.
--Use the following SQL Concepts:
+Write **SQL queries** to answer each question provided.<br>
+Use the following SQL Concepts:
   -*SELECT*
   - *WHERE*
   - *ORDER BY*
   - *TOP*
--Ensure results are clear, readable and accurate.
+Ensure results are clear, readable and accurate.
 
 # 📜Rules
 -Not allowed to <br>
