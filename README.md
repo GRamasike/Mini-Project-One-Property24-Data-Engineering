@@ -32,7 +32,7 @@ This project focuses on:
 -Ensure results are clear, readable and accurate.
 
 # 📜Rules
--I am not allowed to
+-Not allowed to <br>
   -Modify the table structure
   - Insert new records
   - Delete records
