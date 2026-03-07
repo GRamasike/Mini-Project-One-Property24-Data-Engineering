@@ -5,8 +5,9 @@ This project focuses on exploring and analysing a large residential property dat
 
 The goal of this project is to practice data exploration and querying using SQL without modifying the dataset.
 
-# 🎯Your Task
-Your task is to use SQL to explore, filter, and analyse the data using SELECT queries. You are NOT required to modify the data or insert new records.
+# 📁 Dataset
+- Property prices 
+- Location (Country, Province, City)
 
 # 🔍 What You Must Do
 • Write SQL queries to answer each question provided in the question document.<br>
