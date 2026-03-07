@@ -32,7 +32,7 @@ Use the following SQL Concepts:<br>
   Ensure results are clear, readable and accurate.
 
 # 📜Rules
--Not allowed to <br>
+Not allowed to : <br>
   -Modify the table structure
   - Insert new records
   - Delete records
