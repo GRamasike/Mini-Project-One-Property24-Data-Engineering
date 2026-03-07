@@ -14,20 +14,48 @@ The goal of this project is to practice data exploration and querying using SQL 
   The dataset is used to sumulate a real world estate data environmnent.
 
 # 🎯 Project Objective
-Use # SQL SELECT queries 
+Use **SQL SELECT queries** to explore, filter, and analyse the dataset.
+
+This project focuses on:
+- Extracting meaningful insights from property data
+- Translating business questions into SQL queries
+- Practicing fundamentals SQL quesring skills
+
+# 🔍 Tasks
+-For this project, I must:
+-Write **SQL queries** to answer each question provided.
+-Use the following SQL Concepts:
+  -*SELECT*
+  - *WHERE*
+  - *ORDER BY*
+  - *TOP*
+-Ensure results are clear, readable and accurate.
 
 # 📜Rules
-• Do not change the table structure. <br>
-• Do not delete or update any records. <br>
-• Only use read-only queries (SELECT).
+-I am not allowed to
+  -Modify the table structure
+  - Insert new records
+  - Delete records
+  - Update existing data
+Only **SELECT queries** should be used.
 
-# What Is Being Assessed
-• Correct use of SQL syntax.<br>
-• Proper filtering and sorting of data. <br>
-• Ability to interpret business-style questions into SQL queries.
+# 📦Deliverables
+-A SQL file
+All queries must be **clearly numbered** to match the provided question sheet.
 
-# Deliverables
-Submit a document or SQL file containing all your queries, clearly numbered to match the question sheet.
+# ⚡Difficulty level
+**Beginner to Advanced SQL**
+-SQL fundamentals
+-Data exploration
+-Analytical thinking
 
-# Estimated Difficulty
-Beginner to Intermediate SQL level.
+# 🧠 SQL Skills Covered
+- Basic SELECT Queries
+- Basic Aggregation
+- Aggregation with Filtering
+- Aggregation with Grouping
+- Counting Unique Values
+- Analytical Business Query
+
+
+
