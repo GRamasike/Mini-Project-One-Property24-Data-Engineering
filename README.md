@@ -25,7 +25,7 @@ This project focuses on:
 For this project:<br>
 Write **SQL queries** to answer each question provided.<br>
 Use the following SQL Concepts:<br>
-  -*SELECT*
+  - *SELECT*
   - *WHERE*
   - *ORDER BY*
   - *TOP* <br>
