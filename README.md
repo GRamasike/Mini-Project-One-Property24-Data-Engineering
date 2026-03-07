@@ -33,7 +33,7 @@ Use the following SQL Concepts:<br>
 
 # 📜Rules
 Not allowed to : <br>
-  -Modify the table structure
+  - Modify the table structure
   - Insert new records
   - Delete records
   - Update existing data
