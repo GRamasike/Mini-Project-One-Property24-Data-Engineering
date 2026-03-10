@@ -15,63 +15,63 @@ The goal of this project is to practise data exploration and querying using SQL 
 CREATE DATABASE Property24;
 USE Property24;
 
-# 📂 Repository Structure
-The 60 queries are organised across six files, grouped by SQL concept and difficulty level: <br>
-
-
-
 Main table: property24_data<br>
 100,000 rows of residential property records across 9 provinces.
 
+# 📂 Repository Structure
+The 60 queries are organised across six files, grouped by SQL concept and difficulty level: <br>
+- Property24_Foundations.sql 🟢 Beginner Basic SELECT, filtering, and ORDER BY queries.
+- Property24_Exploration.sql 🟡 Intermediate Multi-condition filtering, TOP queries, and analytical thinking.
+- Property24_Count_Aggregations.sql 🟠 Intermediate COUNT aggregations across provinces, cities, and property features.
+- Property24_Sum_Aggregations.sql 🟠 Intermediate SUM aggregations for property values, repayments, and costs.
+- Property24_Average_Aggregations.sql 🟠 Intermediate AVG aggregations for prices, sizes, and income requirements.
+- Property24_Analysis.sql 🔴 Advanced GROUP BY with WHERE filtering for complex business questions.
 
 # 🎯 Project Objective
-Use **SQL SELECT queries** to explore, filter, and analyse the dataset.
+Use **SQL SELECT queries only** to explore, filter, and analyse the dataset.
 
 This project focuses on:
-- Extracting meaningful insights from property data
-- Translating business questions into SQL queries
-- Practicing fundamentals SQL quering skills
+- Extracting meaningful insights from large-scale property data
+- Translating business questions into structured SQL queries
+- Practising SQL querying skills across multiple aggregation types
 
-# 🔍 Tasks
-For this project:<br>
-Write **SQL queries** to answer each question provided.<br>
-Use the following SQL Concepts:<br>
-  - *SELECT*
-  - *WHERE*
-  - *ORDER BY*
-  - *TOP* <br>
-  Ensure results are clear, readable and accurate.
+# 📜Project Rules
+To simulate a real-world read-only data environment, the following constraints were applied: <br>
+  - ❌ No modifying the table structure
+  - ❌ No inserting new records
+  - ❌ No deleting records
+  - ❌ No updating existing data
+  - ✅ SELECT queries only
 
-# 📜Rules
-Not allowed to : <br>
-  - Modify the table structure
-  - Insert new records
-  - Delete records
-  - Update existing data
-Only **SELECT queries** should be used.
+# 🔍 Key SQL Skills Demonstrated
+- Basic SELECT queries & column aliasing
+- WHERE filtering & multi-condition logic
+- ORDER BY and TOP for ranking
+- COUNT, SUM, AVG aggregations
+- GROUP BY for grouped analysis
+- GROUP BY for grouped analysis
+- Analytical business querying
 
-# 📦Deliverables
-- A SQL file<br>
-All queries must be **clearly numbered** to match the provided question sheet.
-
-# ⚡Difficulty Level
-**Beginner to Advanced SQL**
-- SQL fundamentals
-- Data exploration
-- Analytical thinking
-
-# 🧠 SQL Skills Covered
-- Basic SELECT Queries
-- Basic Aggregation
-- Aggregation with Filtering
-- Aggregation with Grouping
-- Counting Unique Values
-- Analytical Business Query
+# 📊 Key Findings
+# Insight
+🏆 The Western Cape contains the top 10 most expensive properties in the dataset
+💰The Northern Cape has the lowest average property price across all provinces
+🏙️Gqeberha recorded the highest total property value of any city
+📉Kimberley has the lowest average property price of any city
+📦The dataset contains 100,000 residential property records
+🗺️All 9 provinces of South Africa are represented in the dataset
 
 # 🛠️ Tools Used
 
-- SQL Sever Management Studio (SSMS)
-- SQL Server
+- SQL Server — database creation and querying
+- SSMS (SQL Server Management Studio) — query development and testing
+
+ # 👤 About Me
+ I am a BSc IT Graduate with 6 years of professional experience as a Batch Processing Administrator at a credit bureau, where I worked extensively with large volumes of sensitive financial data in a production environment.
+ With a solid academic foundation in Database Management, Mathematics for Computer Science, and Project Management, combined with hands-on industry experience in data operations, I am now transitioning into SQL Development and Data Engineering — building on skills I have spent years applying professionally.
+This project is part of a growing portfolio designed to demonstrate my technical capabilities in database design, querying, and data analysis.
+ 
+ 
 
 
 
