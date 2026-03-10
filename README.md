@@ -54,12 +54,12 @@ To simulate a real-world read-only data environment, the following constraints w
 
 # 📊 Key Findings
 # Insight
-🏆 The Western Cape contains the top 10 most expensive properties in the dataset
-💰The Northern Cape has the lowest average property price across all provinces
-🏙️Gqeberha recorded the highest total property value of any city
-📉Kimberley has the lowest average property price of any city
-📦The dataset contains 100,000 residential property records
-🗺️All 9 provinces of South Africa are represented in the dataset
+🏆 The Western Cape contains the top 10 most expensive properties in the dataset <br>
+💰The Northern Cape has the lowest average property price across all provinces <br>
+🏙️Gqeberha recorded the highest total property value of any city <br>
+📉Kimberley has the lowest average property price of any city <br>
+📦The dataset contains 100,000 residential property records <br>
+🗺️All 9 provinces of South Africa are represented in the dataset <br>
 
 # 🛠️ Tools Used
 
